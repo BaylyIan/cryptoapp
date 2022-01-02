@@ -1,1 +1,1 @@
-a crypto app
+a crypto app used for different reasons
